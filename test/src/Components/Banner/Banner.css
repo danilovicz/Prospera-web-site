@@ -1,0 +1,26 @@
+.banner_container{
+  display: flex;
+  height: 100%;
+  width: 100%;
+  margin-top: 50px;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner_img{
+
+  width: 100%;
+}
+
+.banner_content h1{
+  font-size: 50px;
+  font-weight: 800;
+  text-align: center;
+}
+
+.banner_content{
+  position: absolute;
+  top: 50%;
+  color: white;
+}
