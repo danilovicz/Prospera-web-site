@@ -1,0 +1,43 @@
+.toolbar{
+  width: 100%;
+  height: 15%;;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 500;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2%;
+}
+
+.toolbar_naviation{
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+}
+
+.toolbar_logo{
+  width: 50%;
+}
+
+.toolbar_div{
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+}
+
+.toolbar_ul{
+  flex-direction: row;
+  display: flex;
+  width: 100%;
+  list-style: none;
+}
+
+
+.toolbar_li{
+  margin-right: 5%;
+}
+
+.toolbar_a{
+
+}
